@@ -8,5 +8,3 @@ Steps:
 1. Download the assignmentNLP.R file
 2. Open the file in RStudio
 3. Execute line by line to observe the different steps followed as well as the results obtained
-
-Translated with www.DeepL.com/Translator (free version)
